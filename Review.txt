@@ -1,0 +1,7 @@
+
+1. Lỗi layout: nên để null Layout và add components sau đó setLocation hoặc setBounds. Hàm setSize và setPreferredSize nhiều lúc đúng nhiều lúc sai
+2. Lỗi revalidate() khi gọi hàm setText hoặc setVisiable thì sẽ vẽ lại JFrame. Thay bằng graphics và setEnable.
+3. Nút newGame :  do bài quá lủng củng ko thành 1 dòng chảy tuần tự nên ko đưa dòng về lúc đầu được
+4. Hàm RandomInFocus : chỉ focus được phần đầu chứ ko focus đc vào phần giữa, tùy bài nên đổi thành vòng for rồi lấy trung bình
+
+-> Viết thuần đối tượng và học làm game 2D graphics
