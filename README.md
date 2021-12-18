@@ -1,5 +1,7 @@
 # BeerCatcher
 
+Game Hứng Bia Funny
+
 Download at: https://drive.google.com/file/d/1gKXhoEzRWlbTBKaGiFAsum8rlRB6drvC/view
 
 Demo Video:
